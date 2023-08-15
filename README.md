@@ -1,4 +1,14 @@
-### Hi there 👋
+
+### Hi there 👋, I am Swarnendu Sardar
+#### I am a Data Scientist 
+I am passionate about Machine Learning and eager to contribute innovative AI solutions.
+
+Skills: C++, Python, Deep learning, Generative AI 
+
+
+
+
+
 
 <!--
 **SwarnenduS/SwarnenduS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
